@@ -1,0 +1,4 @@
+<div>
+  <h1>Hello {{name}}</h1>
+  <p class="from">From Monkberry and Brunch</p>
+</div>
